@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sun Jun 19 12:23:51 ICT 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Admin\\.m2\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\FormSpringMVC\\WEB-INF\\lib\\spring-web-5.3.20.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kokoro\\.m2\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\FormSpringMVC\\WEB-INF\\lib\\spring-web-5.3.20.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kokoro\\.m2\\repository\\org\\springframework\\spring-web\\5.3.21\\spring-web-5.3.21.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\SpringValidateForm\\WEB-INF\\lib\\spring-web-5.3.21.jar
+org.eclipse.jst.jee.server\:SpringValidateForm=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\SpringValidateForm
