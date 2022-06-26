@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Eclipse\Spring\SpringLog4j"/>
 			<item value="D:\Eclipse\Spring\HelloWorld"/>
 			<item value="D:\Eclipse\Spring"/>
 		</list>
@@ -46,11 +47,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.LearnSpring"/>
 			<item value="com.SpringOne"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="com.LearnSpring"/>
 			<item value="SpringAnotation"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -66,11 +69,22 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringUpload"/>
+			<item value="SpringStaticResource"/>
+			<item value="SpringLog4j"/>
 			<item value="SpringValidateForm"/>
 			<item value="com.LearnSpring"/>
 			<item value="HelloWorld"/>
@@ -78,6 +92,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringUpload"/>
+			<item value="SpringStaticResource"/>
+			<item value="SpringLog4j"/>
 			<item value="SpringValidateForm"/>
 			<item value="FormSpringMVC"/>
 			<item value="SpringAnotation"/>
