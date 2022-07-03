@@ -1,0 +1,5 @@
+com\LearnSpring\Config\InitWeb.class
+com\LearnSpring\Model\Animal.class
+com\LearnSpring\Config\SpringMVCConfig.class
+com\LearnSpring\Controller\HomeController.class
+com\LearnSpring\Controller\ListAnimalController.class

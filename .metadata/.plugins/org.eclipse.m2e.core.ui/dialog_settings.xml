@@ -53,6 +53,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="start-project"/>
 			<item value="com.LearnSpring"/>
 			<item value="SpringAnotation"/>
 		</list>
@@ -82,6 +83,10 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Self-Project"/>
+			<item value="SpringJSON"/>
+			<item value="SpringXMLFile"/>
+			<item value="SpringTiles"/>
 			<item value="SpringUpload"/>
 			<item value="SpringStaticResource"/>
 			<item value="SpringLog4j"/>
@@ -92,6 +97,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Self-Project"/>
+			<item value="SpringJSON"/>
+			<item value="SpringXMLFile"/>
+			<item value="SpringTiles"/>
 			<item value="SpringUpload"/>
 			<item value="SpringStaticResource"/>
 			<item value="SpringLog4j"/>

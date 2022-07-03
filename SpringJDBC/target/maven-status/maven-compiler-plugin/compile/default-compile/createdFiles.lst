@@ -1,0 +1,5 @@
+com\LearnSpring\Service\CustomerService.class
+com\LearnSpring\Controller\CustomerController.class
+com\LearnSpring\Dao\CustomerDao.class
+com\LearnSpring\Model\CustomerMapper.class
+com\LearnSpring\Model\Customer.class

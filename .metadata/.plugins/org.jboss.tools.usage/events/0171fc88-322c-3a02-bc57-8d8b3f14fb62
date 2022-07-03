@@ -1,11 +1,11 @@
-#Sun Jun 26 17:59:59 ICT 2022
+#Sun Jul 03 13:04:20 ICT 2022
 a=finishWizard
 c=0
 cl=org.eclipse.ui.wizards.newresource.BasicNewFileResourceWizard
 cmp=usage
 ct=jbt
-d=1656241199927
+d=1656828260514
 l=Wizard class name
-s=6
+s=3
 v=2.2.400
 vl=How many times the 'Finish' button pressed during the day

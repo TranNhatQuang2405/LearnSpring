@@ -1,6 +1,6 @@
 #Tomcat publish data
-#Sun Jun 26 18:07:52 ICT 2022
+#Sun Jul 03 14:18:57 ICT 2022
 org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Admin\\.m2\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\FormSpringMVC\\WEB-INF\\lib\\spring-web-5.3.20.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kokoro\\.m2\\repository\\org\\springframework\\spring-web\\5.0.2.RELEASE\\spring-web-5.0.2.RELEASE.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\SpringJSON\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kokoro\\.m2\\repository\\org\\springframework\\spring-web\\5.0.2.RELEASE\\spring-web-5.0.2.RELEASE.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\SpringJDBC\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar
 org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kokoro\\.m2\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\FormSpringMVC\\WEB-INF\\lib\\spring-web-5.3.20.jar
-org.eclipse.jst.jee.server\:SpringJSON=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\SpringJSON
+org.eclipse.jst.jee.server\:SpringJDBC=D\:\\Eclipse\\Server\\apache-tomcat-9.0.46\\wtpwebapps\\SpringJDBC
